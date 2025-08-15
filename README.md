@@ -52,6 +52,7 @@ Check out the live version of the platform:
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   
 </p>
+
 ## ⚙️ Installation
 
 To get a local copy up and running, follow these simple steps.
