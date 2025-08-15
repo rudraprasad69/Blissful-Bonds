@@ -1,7 +1,7 @@
 # Blissful Bonds: Event Management Platform
 
 <p align="center">
-  <img src="D:\Blissful Bonds Project Banner.jpg
+  <img src="Blissful Bonds Project Banner.jpg
 " alt="Blissful Bonds Project Banner" width="800">
 </p>
 
