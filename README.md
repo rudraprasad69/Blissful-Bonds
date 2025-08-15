@@ -53,7 +53,6 @@ Check out the live version of the platform:
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
 ## ⚙️ Installation
 
 To get a local copy up and running, follow these simple steps.
