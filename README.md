@@ -1,11 +1,6 @@
 # Blissful Bonds: Event Management Platform
 
 <p align="center">
-  <img src="Blissful Bonds Project Banner.jpg
-" alt="Blissful Bonds Project Banner" width="800">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/license/rudraprasad69/Blissful-Bonds" alt="License">
   <img src="https://img.shields.io/github/stars/rudraprasad69/Blissful-Bonds" alt="Stars">
   <img src="https://img.shields.io/github/forks/rudraprasad69/Blissful-Bonds" alt="Forks">
